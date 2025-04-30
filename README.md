@@ -12,12 +12,9 @@ The primary goal is to apply DBSCAN clustering using different values of the eps
 - Perform clustering using DBSCAN with multiple eps values.
 
 - Collect and analyze the following metrics for each clustering run:
-
->	- Accuracy score (excluding outliers).
-
-> - Number of clusters formed.
-    
->	- Number of outlier points detected (DBSCAN assigns label -1 to outliers).
+    - Accuracy score (excluding outliers).
+    - Number of clusters formed.
+    - Number of outlier points detected (DBSCAN assigns label -1 to outliers).
 
 ## Special Considerations:
 
